@@ -1,0 +1,41 @@
+{
+  "summary_line": "Congo-Rwanda deal signed, COP31 talks extend, G20 handover to Washington, AI chip stocks slide",
+  "stories": [
+    {
+      "tag": "PEACE",
+      "headline": "Congo and Rwanda sign peace framework in Washington, minerals deals follow",
+      "context": "First monitoring teams head to the border",
+      "color": "#2e7d32"
+    },
+    {
+      "tag": "CLIMATE",
+      "headline": "COP31 in Antalya extends talks as fossil-fuel timeline stays blocked",
+      "context": "Island states want binding 2035 phase-out",
+      "color": "#8a6d1a"
+    },
+    {
+      "tag": "DIPLOMACY",
+      "headline": "Johannesburg closes G20, hands presidency to the United States",
+      "context": "Washington takes the 2026 chair amid friction",
+      "color": "#1f4e79"
+    },
+    {
+      "tag": "ECONOMY",
+      "headline": "AI chip stocks slide as compute caps bite and orders cool",
+      "context": "Central banks hint at slower cuts into 2027",
+      "color": "#6a1b9a"
+    },
+    {
+      "tag": "CONFLICT",
+      "headline": "Sudan war pushes famine deeper; aid convoys stalled at El Fasher",
+      "context": "UN seeks ceasefire corridors this week",
+      "color": "#b71c1c"
+    },
+    {
+      "tag": "TECH",
+      "headline": "EU AI Act enforcement starts: first fines target opaque chatbots",
+      "context": "Brussels signals more cases in 2027",
+      "color": "#00695c"
+    }
+  ]
+}
