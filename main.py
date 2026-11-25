@@ -30,8 +30,12 @@ def draw() -> Path:
     ax_out = axes if n > 1 else [axes]
     for ax, story in zip(ax_out, data["stories"]):
         ax.set_facecolor(story["color"])
+        ax.axhspan(-0.5, -0.42, color="#00000030", zorder=0)
         ax.set_xticks([])
         ax.set_yticks([])
+        for spine in ax.spines.values():
+            spine.set_edgecolor("#101820")
+            spine.set_linewidth(2)
         tag_y = 0.90
         head_y = 0.58 if len(story["headline"]) <= 60 else 0.62
         ctx_y = 0.16
